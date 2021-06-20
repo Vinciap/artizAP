@@ -1,0 +1,22 @@
+*{
+	margin : 0px;
+	padding: 0px; 
+}
+div#caja1{
+				margin : auto;
+				width : 300px;
+				heigth : 1500px;
+				background : #973932;
+}
+div#caja2{
+				margin : auto;
+				width : 450px;
+				heigth : 700px;
+				background : #154dff;
+}
+div#caja3{
+			 margin : auto;
+			 width : 450px;
+				heigth : 700px;
+				background : #ff153f;
+}
